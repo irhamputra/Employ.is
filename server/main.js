@@ -19,8 +19,8 @@ Meteor.startup(() => {
         })
     }
 
-    // return 20 records
-    Meteor.publish('employees', () => {
-        return Employees.find({}, { limit: 21 });
+    // return per_page
+    Meteor.publish('employees', (per_page) => {
+        return Employees.find({}, { limit: per_page });
     })
 });
