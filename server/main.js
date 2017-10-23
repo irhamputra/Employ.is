@@ -13,6 +13,7 @@ Meteor.startup(() => {
         // generate some data
         _.times(5000, () => {
             const {name, email, phone} = helpers.createCard();
+
             Employees.insert({
                 name,
                 email,
@@ -21,4 +22,9 @@ Meteor.startup(() => {
             })
         })
     }
+
+    // return 20 records
+    Meteor.publish('employees', () => {
+        return Employees.find({}, { limit: 20 });
+    })
 });
