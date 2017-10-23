@@ -101,6 +101,7 @@
         <item url="file://$USER_HOME$/.meteor/packages/tracker/1.1.3/web.browser/deprecated.js" />
         <item url="file://$USER_HOME$/.meteor/packages/tracker/1.1.3/web.browser/tracker.js" />
         <item url="file://$USER_HOME$/.meteor/packages/url/1.1.0/web.browser/url_common.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/twbs_bootstrap/3.3.6/web.browser/dist/js/bootstrap.js" />
         <item url="file://$USER_HOME$/.meteor/packages/url/1.1.0/web.browser/url_client.js" />
         <item url="file://$USER_HOME$/.meteor/packages/webapp-hashing/1.0.9/web.browser/webapp-hashing.js" />
         <item url="file://$USER_HOME$/.meteor/packages/underscore/1.0.10/web.browser/post.js" />
@@ -111,6 +112,7 @@
         <item url="file://$USER_HOME$/.meteor/packages/webapp/1.3.19/web.browser/webapp_client_tests.js" />
         <item url="file://$USER_HOME$/.meteor/packages/webapp/1.3.19/web.browser/webapp_tests.js" />
         <item url="file://$USER_HOME$/.meteor/packages/webapp/1.3.19/web.browser/socket_file.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/twbs_bootstrap/3.3.6/web.browser/dist/css/bootstrap.css" />
         <item url="file://$USER_HOME$/.meteor/packages/reactive-var/1.0.11/web.browser/reactive-var.js" />
         <item url="file://$USER_HOME$/.meteor/packages/random/1.0.10/web.browser/random.js" />
         <item url="file://$USER_HOME$/.meteor/packages/random/1.0.10/web.browser/deprecated.js" />
@@ -258,6 +260,7 @@
       <root url="file://$USER_HOME$/.meteor/packages/tracker/1.1.3/web.browser/deprecated.js" />
       <root url="file://$USER_HOME$/.meteor/packages/tracker/1.1.3/web.browser/tracker.js" />
       <root url="file://$USER_HOME$/.meteor/packages/url/1.1.0/web.browser/url_common.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/twbs_bootstrap/3.3.6/web.browser/dist/js/bootstrap.js" />
       <root url="file://$USER_HOME$/.meteor/packages/url/1.1.0/web.browser/url_client.js" />
       <root url="file://$USER_HOME$/.meteor/packages/webapp-hashing/1.0.9/web.browser/webapp-hashing.js" />
       <root url="file://$USER_HOME$/.meteor/packages/underscore/1.0.10/web.browser/post.js" />
@@ -268,6 +271,7 @@
       <root url="file://$USER_HOME$/.meteor/packages/webapp/1.3.19/web.browser/webapp_client_tests.js" />
       <root url="file://$USER_HOME$/.meteor/packages/webapp/1.3.19/web.browser/webapp_tests.js" />
       <root url="file://$USER_HOME$/.meteor/packages/webapp/1.3.19/web.browser/socket_file.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/twbs_bootstrap/3.3.6/web.browser/dist/css/bootstrap.css" />
       <root url="file://$USER_HOME$/.meteor/packages/reactive-var/1.0.11/web.browser/reactive-var.js" />
       <root url="file://$USER_HOME$/.meteor/packages/random/1.0.10/web.browser/random.js" />
       <root url="file://$USER_HOME$/.meteor/packages/random/1.0.10/web.browser/deprecated.js" />
