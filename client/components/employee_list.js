@@ -1,4 +1,6 @@
 import React from 'react';
+import { createContainer } from 'meteor/react-meteor-data'
+import { Employees } from '../../imports/collections/employees';
 
 const EmployeeList = () => {
     return (
@@ -10,4 +12,9 @@ const EmployeeList = () => {
     )
 };
 
-export default EmployeeList
+export default createContainer( () => {
+    // Set up subscription
+    Meteor.subscribe('employees');
+    // return object as props
+    return { employees: Employees.find({}) }
+}, EmployeeList);
